@@ -1,6 +1,6 @@
 ### Hi there! 👋🏻
 
-My name is Luís Antônio, a self taught student from Brazil(🇧🇷). Welcome to my profile!
+My name is Luís Antônio, a Software Engineering studant from Brazil(🇧🇷). Welcome to my profile!
 
 I'm currently focusing on learning the web development basics, so there are no *extraordinary* projects here...
 
